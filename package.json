@@ -1,0 +1,26 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "![image](./)\r ## Description\r ## Usage\r ## Built With \r  * Javascript\r ## Contact Me\r * [Sabina Ceja-Siete](https://github.com/unisabi)\r ## Deployment \r https://github.com/unisabi/team-profile\r ## License\r See `MIT LICENSE` for more information.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unisabi/team-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unisabi/team-profile/issues"
+  },
+  "homepage": "https://github.com/unisabi/team-profile#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
